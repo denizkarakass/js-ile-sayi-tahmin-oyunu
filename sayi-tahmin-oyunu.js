@@ -2,7 +2,7 @@
 var hak= 5;
 var tahmin, sayac=0;
 var sayi= Math.floor((Math.random()*10)+1);  // rasgele sayı oluşturuyoruz her seferinde
- console.log(sayi);  
+// console.log(sayi);  
 
 while(hak>0){
     hak--;
